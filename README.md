@@ -4,13 +4,13 @@ AppFastSnack-App para gestionar pedidos
 Es un sistema desarrollado en Java orientado a la gestión de pedidos de comida rápida, eEl proyecto aplica principios de Programación Orientada a Objetos (POO), utilizando conceptos como herencia, encapsulamiento, asociación, agregación y enumeraciones para modelar el proceso de administración de clientes, productos y pedidos.
 El sistema permite registrar clientes, gestionar un catálogo de productos y crear pedidos compuestos por uno o varios productos. Cada pedido está asociado a un único cliente y cuenta con estados definidos mediante una enumeración, lo que facilita el seguimiento del proceso desde su creación hasta su entrega.
 
-Contexto del problema
+Contexto del problema:
 La problemática identificada en este proyecto surge a partir de la necesidad de una microempresa de comida rápida que no contaba con una base de datos para almacenar y gestionar de manera organizada la información de sus clientes, productos y pedidos. Anteriormente, gran parte de la información se manejaba de forma manual, lo que podía ocasionar pérdida de datos, errores en el registro de información y dificultades para llevar un control adecuado de los pedidos realizados. Como solución a esta problemática, se desarrolló FastSnack, una aplicación para la gestión de pedidos de comida rápida. El sistema permite administrar la información de los clientes y productos, así como registrar y gestionar los pedidos de manera organizada.
 
 La aplicación fue desarrollada utilizando Java y Apache NetBeans, incorporando una interfaz gráfica que permite al usuario interactuar con el sistema.
 Además, se implementó una base de datos en MySQL para almacenar de forma estructurada la información de los clientes, productos y pedidos. De esta manera, el sistema busca mejorar el control de la información, reducir errores, ahorrar tiempo en la gestión de pedidos y brindar una atención más rápida y eficiente a los clientes
 
-Análisis de requerimientos
+Análisis de requerimientos:
 Para solucionar la problemática planteada, el sistema FastSnack debe permitir gestionar la información de clientes, productos y pedidos 
 •	Registrar: permitir registrar clientes, productos , pedidos y opinions sobre Nuestro servicio. 
 •	Consultar: permitir visualizar la información almacenada en el Sistema 
