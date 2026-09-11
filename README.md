@@ -1,5 +1,6 @@
 # PROYECTO-FASTSNACK  
 AppFastSnack-App para gestionar pedidos 
+diapositivas: https://www.canva.com/design/DAHU21DiBvc/oZ8xyVtunWt_I2_qmyLXKg/edit
       
 Es un sistema desarrollado en Java orientado a la gestión de pedidos de comida rápida, eEl proyecto aplica principios de Programación Orientada a Objetos (POO), utilizando conceptos como herencia, encapsulamiento, asociación, agregación y enumeraciones para modelar el proceso de administración de clientes, productos y pedidos.
 El sistema permite registrar clientes, gestionar un catálogo de productos y crear pedidos compuestos por uno o varios productos. Cada pedido está asociado a un único cliente y cuenta con estados definidos mediante una enumeración, lo que facilita el seguimiento del proceso desde su creación hasta su entrega.
